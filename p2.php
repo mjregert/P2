@@ -1,3 +1,7 @@
+<?php
+require('logic.php');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -26,7 +30,7 @@
                     <!--span><label>Number of Words:<input type="number" id="wordCount" min="1" max="9" value="4"/></label></span-->
                     <span>
                         <label>Number of Words:</label>
-                        <input name="wordCount" type="range" id="wordCount" min="1" max="9" value="5"/>
+                        <input name="wordCount" type="number" id="wordCount" min="1" max="9" value="5"/>
                     </span>
                     <span>
                         <!-- Note, label intentionally placed after checkbox per standard UXD guidelines -->
