@@ -13,3 +13,4 @@ TBD
 No login required.
 
 ## Outside code
+  * Downloaded "The Great Noun List" from <http://www.desiquintans.com/nounlist>. The website confirms I can use this file for this purpose.

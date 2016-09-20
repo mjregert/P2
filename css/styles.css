@@ -6,10 +6,23 @@ header h1 {
     font-family: Arial, Helvetica, sans-serif;
     color: #6C7A92;
     text-align: center;
+    background-color: white;
 }
 
 header h1 img {
     vertical-align: sub;
+}
+
+main div#left {
+    float: left;
+    display: inline;
+    width: 50%;
+}
+
+main div#right {
+    float: right;
+    display: inline;
+    width: 50%;
 }
 
 main form input[type="number"] {
