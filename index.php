@@ -62,6 +62,11 @@ require('logic.php');
         </div>
         <img src="img/XKCD_Cartoon.png" alt="XKCD Password Strenth Cartoon">
     </main>
-
+    <footer>
+        <small>Michael Regert
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               mjr171@g.harvard.edu
+               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+               Project 2 for CSCI E-15</small>
 </body>
 </html>
