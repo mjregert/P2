@@ -10,7 +10,7 @@ You can also access the live site for this project via the link for P2 in Projec
 A simple xkcd style password generator meant to provide hands-on practice with working with the basics of PHP.
 
 ## Demo
-TBD
+<https://youtu.be/L9iBak7TTis>
 
 ## Details for teaching team
 No login required.
