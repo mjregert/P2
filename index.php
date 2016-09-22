@@ -21,7 +21,7 @@ require('logic.php');
     </header>
 
     <main>
-        <form method='GET' action='p2.php'>
+        <form method='GET' action='index.php'>
             <fieldset>
                 <legend>Password Generator Options:</legend>
                 <span>
