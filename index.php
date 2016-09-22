@@ -7,7 +7,7 @@ require('logic.php');
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="css/styles.css">
-    <title>CSCI E-15 Project 2</title>
+    <title>CSCI E-15 P2</title>
 
     <?php
         $var = "Hello";
