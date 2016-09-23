@@ -17,7 +17,7 @@ require('logic.php');
 
 <body>
     <header>
-        <h1>Michael's <img src="img/terrible_small_logo.png" alt="XKCD Logo" width="100px"> Password Generator</h1>
+        <h1>Michael's <img src="img/terrible_small_logo.png" alt="XKCD Logo" width="100"> Password Generator</h1>
     </header>
 
     <main>
@@ -53,7 +53,8 @@ require('logic.php');
                 <br>
                 <span>
                     <label><em>Click submit to generate a random password with the parameters above.</em></label>
-                <input type="submit" value="Submit">
+                    <input type="submit" value="Submit">
+                </span>
           </fieldset>
         </form>
 
@@ -67,6 +68,8 @@ require('logic.php');
                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                mjr171@g.harvard.edu
                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-               Project 2 for CSCI E-15</small>
+               Project 2 for CSCI E-15
+        </small>
+    </footer>
 </body>
 </html>
